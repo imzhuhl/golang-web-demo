@@ -1,0 +1,13 @@
+golang web deme from https://gowebexamples.com/
+
+you just under test_? folder(? is number) and then:
+> go run main.go
+to see the demo 
+
+test 1:
+    Simple server & File server
+test 2:
+    Routing: go get -u github.com/gorilla/mux
+test 3:
+    Templates
+
