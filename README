@@ -21,3 +21,5 @@ test7:
     JSON
 test 8:
     WebSocket: go get github.com/gorilla/websocket
+test 9:
+    Password: go get golang.org/x/crypto/bcrypt
