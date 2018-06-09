@@ -8,11 +8,16 @@ to see the demo
 test 1:
     Simple server & File server
 test 2:
-    Routing: go get -u github.com/gorilla/mux
+    Routing: go get github.com/gorilla/mux
 test 3:
     Templates
 test 4:
     Forms
 test 5:
     Middleware
-
+test 6:
+    Session: go get github.com/gorilla/sessions
+test7:
+    JSON
+test 8:
+    WebSocket: go get github.com/gorilla/websocket
